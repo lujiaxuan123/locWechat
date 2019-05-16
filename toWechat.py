@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import time
 
 #update your userids 
-userIds='orPQ800sg4nMZkuMKxH01LiFpNxsyvWM149999'
+userIds='orPQ808u1kn0JVeVWATr0eUSQ2nUXQiB8wWPht'
 
 def getnewesttitle():
     url = 'https://www.hostloc.com/forum.php?mod=forumdisplay&fid=45&filter=author&orderby=dateline'
